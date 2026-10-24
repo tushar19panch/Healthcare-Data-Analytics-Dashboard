@@ -27,6 +27,13 @@ This project is an interactive Healthcare Data Analytics Dashboard developed usi
 ## Project File
 
 The Power BI dashboard file is available in this repository:
+## Dashboard Preview
+
+## Dashboard Preview
+
+![Healthcare Data Analytics Dashboard](PowerBI_Dashboard.png)
+
+
 
 `Healthcare_Dashboard.pbix`
 
